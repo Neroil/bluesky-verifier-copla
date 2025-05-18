@@ -1,0 +1,15 @@
+{
+  "client_id": "https://Neroil.github.io/bluesky-verifier-copla/client-metadata.json",
+  "client_name": "Bluesky Verifier Copla",
+  "client_uri": "https://Neroil.github.io/bluesky-verifier-copla/",
+  "logo_uri": "https://Neroil.github.io/bluesky-verifier-copla/logo.png",
+  "tos_uri": "https://Neroil.github.io/bluesky-verifier-copla/tos.html",
+  "policy_uri": "https://Neroil.github.io/bluesky-verifier-copla/policy.html",
+  "redirect_uris": ["https://Neroil.github.io/bluesky-verifier-copla/"],
+  "scope": "atproto",
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "application_type": "web",
+  "dpop_bound_access_tokens": true
+}
