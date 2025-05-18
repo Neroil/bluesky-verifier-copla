@@ -24,7 +24,7 @@ if (!session) {
   if (!handle) throw new Error('Authentication process canceled by the user')
 
   const url = await oauthClient.authorize(handle, {
-  scope: 'atproto'
+  scope: 'atproto transition:generic' // Ensure all required scopes are requested
 });
 
   // Redirect the user to the authorization page
