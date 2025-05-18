@@ -1,0 +1,27 @@
+{
+  "name": "bluesky-verifier-copla",
+  "version": "1.0.0",
+  "description": "\"# bluesky-verifier-copla\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neroil/bluesky-verifier-copla.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Neroil/bluesky-verifier-copla/issues"
+  },
+  "homepage": "https://github.com/Neroil/bluesky-verifier-copla#readme",
+  "devDependencies": {
+    "@atproto/api": "^0.15.7",
+    "@atproto/oauth-client-browser": "^0.3.16",
+    "parcel": "^2.15.1",
+    "parcel-reporter-static-files-copy": "^1.5.3"
+  }
+}
