@@ -23,7 +23,9 @@ if (!session) {
   const handle = prompt('Enter your atproto handle to authenticate')
   if (!handle) throw new Error('Authentication process canceled by the user')
 
-  const url = await oauthClient.authorize(handle)
+  const url = await oauthClient.authorize(handle, {
+  scope: 'atproto'
+});
 
   // Redirect the user to the authorization page
   window.open(url, '_self', 'noopener')
