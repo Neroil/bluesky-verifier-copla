@@ -1,4 +1,4 @@
-7041
+7039
 99C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\caniuse-lite\data\regions\KZ.js133920362639800511 0
 99C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\transformer-svg\LICENSE133920362621527614 0
 129C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\src\client\types\com\atproto\repo\listRecords.ts133920362649535020 0
@@ -52,11 +52,6 @@
 112C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\node-gyp-build-optional-packages\optional.js133920362618438740 0
 132C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\tools\ozone\team\addMember.js.map133920362638929839 0
 64C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\.parcelrc133920363404652345 0
-101C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\oauth-client\src\lock.ts133920362633930079 0
-84C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\term-size\vendor133920362619174059 1
-148C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm_bg.wasm133920362632623231 0
-133C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\app\bsky\feed\getListFeed.d.ts.map133920362642359013 0
-59C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\dist133920396218966244 1
 131C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\app\bsky\feed\searchPosts.js.map133920362644750903 0
 89C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\has-flag\package.json133920362617829061 0
 96C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\watcher\src\Event.hh133920362621917759 0
@@ -74,6 +69,19 @@
 136C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\chat\bsky\convo\getConvoForMembers.js133920362634833240 0
 75C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\client-metadata.json133920387218036317 0
 99C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\multiformats\src\codecs\json.js133920362628350975 0
+72C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\lmdb133920362632155053 1
+84C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\lmdb\index.d.cts133920362628716941 0
+103C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\syntax\dist\index.d.ts.map133920362628451160 0
+81C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\node-releases133920362618798406 1
+117C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\oauth-client\src\oauth-server-factory.ts133920362634370354 0
+59C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\docs133920399675022170 1
+107C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\multiformats\src\hashes\sha2-browser.js133920362628591885 0
+136C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\com\atproto\admin\searchAccounts.d.ts133920362650664202 0
+109C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\optimizer-svg\src\SVGOptimizer.js133920362623005919 0
+105C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\multiformats\cjs\src\hashes\hasher.js133920362626751258 0
+108C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\type-fest\source\conditional-except.d.ts133920362619599240 0
+116C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\oauth-client-browser\dist\errors.js.map133920362634165240 0
+88C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\json5\dist\index.mjs133920362620611445 0
 122C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\app\bsky\feed\defs.d.ts133920362646290489 0
 100C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\jwk\dist\index.d.ts.map133920362632220159 0
 67C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules133920362659682066 1
@@ -359,10 +367,6 @@
 95C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\lightningcss-win32-x64-msvc133920362618264739 1
 100C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\runtime-rsc\package.json133920362624048106 0
 116C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@swc\helpers\esm\_possible_constructor_return.js133920362632340640 0
-72C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\lmdb133920362632155053 1
-84C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\lmdb\index.d.cts133920362628716941 0
-103C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\syntax\dist\index.d.ts.map133920362628451160 0
-81C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\node-releases133920362618798406 1
 90C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\update-browserslist-db133920362619038989 1
 97C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\msgpackr-extract\package.json133920362618778401 0
 139C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\tools\ozone\setting\removeOptions.js.map133920362644325120 0
@@ -1136,6 +1140,7 @@
 126C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\COPYRIGHT133920362619138969 0
 117C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\caniuse-lite\data\features\css-filter-function.js133920362632245286 0
 104C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\caniuse-lite\data\features\bigint.js133920362624138237 0
+70C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\docs\index.html133920399674683659 0
 105C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\jwk-jose\tsconfig.build.json133920362631078287 0
 122C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c133920362626846386 0
 132C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@swc\helpers\esm\_class_check_private_static_field_descriptor.js133920362629205207 0
@@ -1201,14 +1206,6 @@
 127C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\tools\ozone\team\defs.js.map133920362640782438 0
 116C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto-labs\simple-store\dist\cached-getter.js133920362636362784 0
 98C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\type-fest\source\asyncify.d.ts133920362618693308 0
-117C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\oauth-client\src\oauth-server-factory.ts133920362634370354 0
-107C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\multiformats\src\hashes\sha2-browser.js133920362628591885 0
-136C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\com\atproto\admin\searchAccounts.d.ts133920362650664202 0
-109C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\optimizer-svg\src\SVGOptimizer.js133920362623005919 0
-105C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\multiformats\cjs\src\hashes\hasher.js133920362626751258 0
-108C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\type-fest\source\conditional-except.d.ts133920362619599240 0
-116C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\oauth-client-browser\dist\errors.js.map133920362634165240 0
-88C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\json5\dist\index.mjs133920362620611445 0
 106C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\type-fest\source\conditional-keys.d.ts133920362619734152 0
 93C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@swc\counter\package.json133920362618264739 0
 97C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\semver\functions\satisfies.js133920362622394514 0
@@ -1340,6 +1337,9 @@
 90C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\term-size\package.json133920362619799278 0
 141C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\app\bsky\graph\getActorStarterPacks.js.map133920362641878738 0
 101C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\lightningcss\node\targets.js.flow133920362619724153 0
+101C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\oauth-client\src\lock.ts133920362633930079 0
+84C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\term-size\vendor133920362619174059 1
+148C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm_bg.wasm133920362632623231 0
 94C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\term-size\vendor\.DS_Store133920362618374800 0
 100C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\events\src\Disposable.js133920362624243575 0
 137C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\oauth-client-browser\dist\indexed-db\db-transaction.d.ts.map133920362634060137 0
@@ -2662,7 +2662,6 @@
 103C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\utils\src\getModuleParts.js133920362627697057 0
 105C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\jose\dist\node\esm\util\decode_jwt.js133920362629665512 0
 114C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\types-internal\lib\PackageManager.d.ts133920362621447532 0
-94C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\dist\bluesky-verifier-copla.9d2edc39.js133920396218672655 0
 142C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\tools\ozone\moderation\queryStatuses.js.map133920362644229954 0
 115C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\oauth-types\dist\oauth-redirect-uri.js133920362632698379 0
 99C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\caniuse-lite\data\regions\GH.js133920362637683738 0
@@ -2851,7 +2850,6 @@
 107C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\caniuse-lite\data\features\webcodecs.js133920362643864785 0
 99C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\core\lib\projectPath.js133920362633588944 0
 100C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\jose\dist\node\cjs\jwt\verify.js133920362637268570 0
-70C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\dist\index.html133920396218667300 0
 123C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\app\bsky\actor\status.js133920362638138919 0
 98C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\jose\dist\node\cjs\jws\general133920362637257316 1
 95C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\did\jest.config.js133920362637758812 0
@@ -3120,7 +3118,6 @@
 108C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\transformer-postcss\package.json133920362621252456 0
 85C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\dotenv-expand\lib133920362620360311 1
 89C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\dotenv-expand\LICENSE133920362619164055 0
-98C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\dist\bluesky-verifier-copla.c9112ede.js.map133920394932807305 0
 117C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\src\client\types\com\atproto\lexicon133920362650639118 1
 105C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\core\test\BundleGraph.test.js133920362629205207 0
 127C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\caniuse-lite\data\features\background-repeat-round-space.js133920362623336246 0
@@ -4813,6 +4810,7 @@
 104C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\transformer-svg\package.json133920362621897764 0
 128C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\app\bsky\graph\getBlocks.d.ts133920362647555870 0
 110C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\transformer-react-refresh-wrap\lib133920362620676548 1
+80C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\docs\client-metadata.json133920388736256131 0
 114C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE133920362620280312 0
 110C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\transformer-react-refresh-wrap\src133920362620771650 1
 118C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers133920362620831664 1
@@ -5025,6 +5023,7 @@
 109C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\packager-wasm\lib\WasmPackager.js133920362622107846 0
 96C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\packager-svg\LICENSE133920362622835206 0
 101C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\packager-svg\package.json133920362623065980 0
+94C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\docs\bluesky-verifier-copla.a0f20e2f.js133920399674736792 0
 92C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\packager-svg\src133920362622975899 1
 107C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@parcel\packager-svg\src\SVGPackager.js133920362623005919 0
 98C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\jwk\dist\key.d.ts.map133920362632643248 0
@@ -5789,7 +5788,6 @@
 134C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\oauth-types\dist\oauth-protected-resource-metadata.js.map133920362635073876 0
 117C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\oauth-types\dist\oauth-redirect-uri.d.ts133920362637055233 0
 121C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\oauth-types\dist\oauth-redirect-uri.d.ts.map133920362635103865 0
-98C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\dist\bluesky-verifier-copla.9d2edc39.js.map133920396218939638 0
 130C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\oauth-client-browser\dist\browser-oauth-database.d.ts133920362634643048 0
 119C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\oauth-types\dist\oauth-redirect-uri.js.map133920362635151337 0
 114C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\.bin\node-gyp-build-optional-packages-optional133920362652245362 0
@@ -6510,6 +6508,7 @@
 130C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\com\atproto\sync\getHead.js.map133920362642213844 0
 145C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\tools\ozone\signature\findCorrelation.d.ts.map133920362641588539 0
 139C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\tools\ozone\signature\findCorrelation.js133920362634070126 0
+98C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\docs\bluesky-verifier-copla.a0f20e2f.js.map133920399675000483 0
 145C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\tools\ozone\signature\findRelatedAccounts.d.ts133920362647300751 0
 149C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\tools\ozone\signature\findRelatedAccounts.d.ts.map133920362641618546 0
 126C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\tools\ozone\setting\defs.js133920362633138662 0
@@ -6967,6 +6966,7 @@
 135C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\app\bsky\feed\getFeedSkeleton.js.map133920362642163837 0
 126C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\app\bsky\feed\getLikes.d.ts133920362647928895 0
 129C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\app\bsky\feed\getListFeed.d.ts133920362647978894 0
+133C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\app\bsky\feed\getListFeed.d.ts.map133920362642359013 0
 127C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\app\bsky\feed\getListFeed.js133920362635344275 0
 124C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\app\bsky\feed\getPosts.js133920362635538140 0
 127C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\@atproto\api\dist\client\types\app\bsky\feed\getQuotes.d.ts133920362648224041 0
@@ -7038,5 +7038,3 @@
 83C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\.bin\semver.ps1133920362652655829 0
 77C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\.bin\tlds133920362652716868 0
 81C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\node_modules\.bin\tlds.cmd133920362652716868 0
-94C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\dist\bluesky-verifier-copla.c9112ede.js133920394932747235 0
-80C:\Users\Hiroyko\Desktop\HEIGVD\bluesky-verifier-copla\dist\client-metadata.json133920388736256131 0
